@@ -1,0 +1,60 @@
+body{
+	background-repeat: true;
+
+	
+
+}
+#page{
+	
+	background-color: black;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 20px;
+	opacity: 0.9;
+	margin-bottom: 20px;
+}
+#title{
+	color: white;
+	font-family: 'Playfair Display', serif;
+	font-size: 47px;
+}
+#title1{
+	color: white;
+	font-family: 'Playfair Display', serif;
+	font-size: 40px;
+}
+#lineBreak{
+	color: white;
+	font-family: 'Playfair Display', serif;
+	font-size: 10px;
+}
+#paragraph{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 23px;
+	color: white;
+	text-align: justify;
+	margin-left: 20px;
+	margin-right: 100px;
+
+
+}
+.row{
+	margin-left: 40px;
+}
+
+#wells{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 23px;
+	color: black;
+	text-align: justify;
+	text-align: center;
+
+#par{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+#quote{
+	font-family: 'Dancing Script', cursive;
+	color: white;
+
+}
